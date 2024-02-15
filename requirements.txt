@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+streamlit-option-menu
+prophet
+yfinance
+plotly
+scikit-learn
